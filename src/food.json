@@ -1,0 +1,52 @@
+[
+    {
+        "relief": "Food",
+        "name": "CAMBA Beyond Hunger Emergency Food Pantry",
+        "address": "21 Snyder Ave, Brooklyn, NY 11226",
+        "latlng": [
+            -73.9572,
+            40.6486
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Food",
+        "name": "Food Bank for New York City",
+        "address": "39 Broadway, New York, NY 10038",
+        "latlng": [
+            -74.0134,
+            40.7063
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Food",
+        "name": "City Harvest",
+        "address": "6 E 32nd St, New York, NY 10016",
+        "latlng": [
+            -73.9850,
+            40.7464
+        ],
+        "amenities": "null"
+    },   
+    {
+        "relief": "Food",
+        "name": "St Francis Food Pantries",
+        "address": "450 Fashion Ave # 2306, New York, NY 10123",
+        "latlng": [
+            -73.9908,
+            40.7514
+        ],
+        "amenities": "null"
+    },   
+    {
+        "relief": "Food",
+        "name": "New York Common Pantry",
+        "address": "8 E 109th St, New York, NY 10029",
+        "latlng": [
+            -73.9492,
+            40.7957
+        ],
+        "amenities": "null"
+    }
+  ]

@@ -1,0 +1,189 @@
+[
+    {
+        "relief": "Healthcare",
+        "name": "NewYork-Presbyterian Brooklyn Methodist Hospital",
+        "address": "506 6th St, Brooklyn, NY 11215",
+        "capacity": 651,
+        "latlng": [
+            -73.9792,
+            40.6679
+        ],
+        "amenities": "null"
+    },
+     {
+        "relief": "Healthcare",
+        "name": "Kings County Hospital",
+        "address": "451 Clarkson Ave, Brooklyn, NY 11203",
+        "capacity": 634,
+        "latlng": [
+            -73.9434,
+            40.6565
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Healthcare",
+        "name": "NYU Langone Hospital - Brooklyn - A",
+        "address": "150 55th St, Brooklyn, NY 11220",
+        "capacity": 450,
+        "latlng": [
+            -74.0210,
+            40.6465
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Healthcare",
+        "name": "Mount Sinai Brooklyn",
+        "address": "3201 Kings Hwy, Brooklyn, NY 11234",
+        "capacity": 212,
+        "latlng": [
+            -73.9431,
+            40.6185
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Healthcare",
+        "name": "NYU Langone Hospital - Brooklyn - A",
+        "address": "150 55th St, Brooklyn, NY 11220",
+        "capacity": 450,
+        "latlng": [
+            -74.0210,
+            40.6465
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Healthcare",
+        "name": "Mount Sinai Brooklyn",
+        "address": "3201 Kings Hwy, Brooklyn, NY 11234",
+        "capacity": 212,
+        "latlng": [
+            -73.9431,
+            40.6185
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Healthcare",
+        "name": "Maimonides Medical Center",
+        "address": "4802 10th Ave, Brooklyn, NY 11219",
+        "capacity": 711,
+        "latlng": [
+            -73.9990,
+            40.6397
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Healthcare",
+        "name": "Brookdale Hospital Medical Center",
+        "address": "1 Brookdale Plaza, Brooklyn, NY 11212",
+        "capacity": 532,
+        "latlng": [
+            -73.9125,
+            40.6552
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Healthcare",
+        "name": "NYC Health + Hospitals/Woodhull",
+        "address": "760 Broadway, Brooklyn, NY 11206",
+        "capacity": 323,
+        "latlng": [
+            -73.9423,
+            40.6996
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Healthcare",
+        "name": "NYC Health + Hospitals/Coney Island",
+        "address": "2601 Ocean Pkwy, Brooklyn, NY 11235",
+        "capacity": 371,
+        "latlng": [
+            -73.9423,
+            40.6996
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Healthcare",
+        "name": "New York Community Hospital",
+        "address": "2525 Kings Hwy, Brooklyn, NY 11229",
+        "capacity": 134,
+        "latlng": [
+            -73.9485,
+            40.6139
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Healthcare",
+        "name": "NewYork-Presbyterian Lower Manhattan Hospital",
+        "address": "170 William St, New York, NY 10038",
+        "capacity": 2478,
+        "latlng": [
+            -74.0048,
+            40.7100
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Healthcare",
+        "name": "Bellevue Hospital Center",
+        "address": "462 1st Avenue, New York, NY 10016",
+        "capacity": 1500,
+        "latlng": [
+            -73.9756,
+            40.7393
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Healthcare",
+        "name": "Mount Sinai Beth Israel",
+        "address": "281 1st Avenue, New York, NY 10003",
+        "capacity": 794,
+        "latlng": [
+            -73.9817,
+            40.7328
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Healthcare",
+        "name": "Mount Sinai West",
+        "address": "1000 10th Ave, New York, NY 10019",
+        "capacity": 505,
+        "latlng": [
+            -73.9869,
+            40.7697
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Healthcare",
+        "name": "Lenox Hill Hospital",
+        "address": "110e E 59th St, New York, NY 10022",
+        "capacity": 652,
+        "latlng": [
+            -73.9694,
+            40.7623
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Healthcare",
+        "name": "NYC Health + Hospitals/Harlem",
+        "address": "506 Lenox Ave, New York, NY 10037",
+        "capacity": 272,
+        "latlng": [
+            -73.9399,
+            40.8145
+        ],
+        "amenities": "null"
+    }
+  ]

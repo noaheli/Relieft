@@ -1,0 +1,134 @@
+[
+   {
+        "relief": "Shelter",
+        "name": "The Brooklyn Tabernacle",
+        "address": "17 Smith St, Brooklyn, NY 11201",
+        "capacity": 3200,
+        "latlng": [
+            -73.9871,
+            40.6906
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Shelter",
+        "name": "St. Charles Borromeo Church, Brooklyn Heights",
+        "address": "19 Sidney Pl, Brooklyn, NY 11201",
+        "capacity": "null",
+        "latlng": [
+            -73.9943,
+            40.6922
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Shelter",
+        "name": "Forefront Church",
+        "address": "509 Atlantic Ave, Brooklyn, NY 11217",
+        "capacity": "null",
+        "latlng": [
+            -73.9808,
+            40.6855
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Shelter",
+        "name": "C3 NYC",
+        "address": "66 N 6th St, Brooklyn, NY 11211",
+        "capacity": "null",
+        "latlng": [
+            -73.9617,
+            40.7191
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Shelter",
+        "name": "Kane Street Synagogue",
+        "address": "236 Kane St, Brooklyn, NY 11231",
+        "capacity": 864,
+        "latlng": [
+            -73.9952,
+            40.6856
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Shelter",
+        "name": "Congregation Beth Elohim",
+        "address": "274 Garfield Pl, Brooklyn, NY 11215",
+        "capacity": 1200,
+        "latlng": [
+            -73.9744,
+            40.6711
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Shelter",
+        "name": "East Midwood Jewish Center",
+        "address": "1625 Ocean Ave, Brooklyn, NY 11230",
+        "capacity": 950,
+        "latlng": [
+            -73.9553,
+            40.6223
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Shelter",
+        "name": "Millennium Brooklyn High School",
+        "address": "237 7th Ave, Brooklyn, NY 11215",
+        "capacity": "null",
+        "latlng": [
+            -73.9786,
+            40.6693
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Shelter",
+        "name": "Chelsea Community Church",
+        "address": "346 W 20th St, New York, NY 10011",
+        "capacity": "null",
+        "latlng": [
+            -74.0019,
+            40.7440
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Shelter",
+        "name": "The Cathedral Church of St. John the Divine",
+        "address": "1047 Amsterdam Ave, New York, NY 10025",
+        "capacity": 6000,
+        "latlng": [
+            -73.9625,
+            40.8041
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Shelter",
+        "name": "St. John the Baptist Church",
+        "address": "213 W 30th St, New York, NY 10001",
+        "capacity": "null",
+        "latlng": [
+            -73.9932,
+            40.7489
+        ],
+        "amenities": "null"
+    },
+    {
+        "relief": "Shelter",
+        "name": "American Red Cross Greater New York",
+        "address": "520 W 49th St, New York, NY 10019",
+        "capacity": "null",
+        "latlng": [
+            -73.9935,
+            40.7643
+        ],
+        "amenities": "null"
+    }
+  ]
